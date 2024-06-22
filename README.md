@@ -1,4 +1,4 @@
-# Chat With Me 💬
+# Chat Hub 💬
 
 This is a Flutter chat app that allows users to send and receive messages, images, and videos in real-time. The app uses Firebase as a backend service for storing messages and handling user authentication.
 
